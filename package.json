@@ -17,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/vuejs/vuex-router-sync/issues"
   },
-  "homepage": "https://github.com/vuejs/vuex-router-sync#readme",
-  "peerDependencies": {
-    "vuex": ">= 0.6.2",
-    "vue-router": ">=0.7.11"
-  }
+  "homepage": "https://github.com/vuejs/vuex-router-sync#readme"
 }
